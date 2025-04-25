@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/RusHerrr07/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2892-check-if-array-is-good](https://github.com/RusHerrr07/Leetcode/tree/master/2892-check-if-array-is-good) |
 | [2893-visit-array-positions-to-maximize-score](https://github.com/RusHerrr07/Leetcode/tree/master/2893-visit-array-positions-to-maximize-score) |
+| [2915-count-of-interesting-subarrays](https://github.com/RusHerrr07/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/RusHerrr07/Leetcode/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/RusHerrr07/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/RusHerrr07/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/RusHerrr07/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/RusHerrr07/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2892-check-if-array-is-good](https://github.com/RusHerrr07/Leetcode/tree/master/2892-check-if-array-is-good) |
+| [2915-count-of-interesting-subarrays](https://github.com/RusHerrr07/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/RusHerrr07/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RusHerrr07/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/RusHerrr07/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -959,6 +961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/RusHerrr07/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/RusHerrr07/Leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2878-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/RusHerrr07/Leetcode/tree/master/2878-apply-operations-to-make-all-array-elements-equal-to-zero) |
+| [2915-count-of-interesting-subarrays](https://github.com/RusHerrr07/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 ## Linked List
 |  |
 | ------- |
