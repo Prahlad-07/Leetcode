@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3649-minimum-time-to-break-locks-i](https://github.com/RusHerrr07/Leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/RusHerrr07/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/RusHerrr07/Leetcode/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/RusHerrr07/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## String
 |  |
 | ------- |
