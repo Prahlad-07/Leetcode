@@ -11,32 +11,13 @@ public:
         //     }
         // }
         // return cnt;
-        
+
         int n=nums.size();
         long long cnt=0;
+        this->n=n;
+        tree.resize(4*n);
+        build(1,0,n-1,nums);
 
-        vector<int> tree(4*n);
-        function<void(int,int,int)> build=[&](int v,int l,int r){
-            if(l==r)tree[v]=nums[l];
-            else{
-                int m=(l+r)/2;
-                build(v*2,l,m);
-                build(v*2+1,m+1,r);
-                tree[v]=max(tree[v*2],tree[v*2+1]);
-            }
-        };
-
-        function<int(int,int,int,int,int)> query=[&](int v,int tl,int tr,int l,int r){
-            if(l>r)return INT_MIN;
-            if(tl==l && tr==r)return tree[v];
-            int tm=(tl+tr)/2;
-            return max(
-                query(v*2,tl,tm,l,min(r,tm)),
-                query(v*2+1,tm+1,tr,max(l,tm+1),r)
-            );
-        };
-
-        build(1,0,n-1);
         unordered_map<int,vector<int>> mp;
         for(int i=0;i<n;i++)mp[nums[i]].push_back(i);
 
@@ -50,5 +31,29 @@ public:
         }
 
         return cnt;
+    }
+
+private:
+    vector<int> tree;
+    int n;
+
+    void build(int v,int l,int r,vector<int>& nums){
+        if(l==r)tree[v]=nums[l];
+        else{
+            int m=(l+r)/2;
+            build(v*2,l,m,nums);
+            build(v*2+1,m+1,r,nums);
+            tree[v]=max(tree[v*2],tree[v*2+1]);
+        }
+    }
+
+    int query(int v,int tl,int tr,int l,int r){
+        if(l>r)return INT_MIN;
+        if(tl==l && tr==r)return tree[v];
+        int tm=(tl+tr)/2;
+        return max(
+            query(v*2,tl,tm,l,min(r,tm)),
+            query(v*2+1,tm+1,tr,max(l,tm+1),r)
+        );
     }
 };
