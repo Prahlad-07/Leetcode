@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-pancake-sorting](https://github.com/RusHerrr07/Leetcode/tree/master/1009-pancake-sorting) |
 | [1025-minimum-cost-for-tickets](https://github.com/RusHerrr07/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1046-max-consecutive-ones-iii](https://github.com/RusHerrr07/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/RusHerrr07/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/RusHerrr07/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/RusHerrr07/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1256-rank-transform-of-an-array](https://github.com/RusHerrr07/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -675,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RusHerrr07/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/RusHerrr07/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1009-pancake-sorting](https://github.com/RusHerrr07/Leetcode/tree/master/1009-pancake-sorting) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/RusHerrr07/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1304-longest-happy-string](https://github.com/RusHerrr07/Leetcode/tree/master/1304-longest-happy-string) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/RusHerrr07/Leetcode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/RusHerrr07/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
