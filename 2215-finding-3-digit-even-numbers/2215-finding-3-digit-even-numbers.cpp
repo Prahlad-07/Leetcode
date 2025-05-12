@@ -36,10 +36,10 @@ public:
         // int one=0,zero=0,three=0;
         // if(dig1==dig2){
         //     one++;
-        //     two--        // <- this line is commented out as it contains an error
+        //     two--       
         // }
         // if(two==3){
-        //     two++        // <- this line is commented out as it contains an error
+        //     two++   
         // }
         map<int,int>temp;
         for(auto &x:s){
