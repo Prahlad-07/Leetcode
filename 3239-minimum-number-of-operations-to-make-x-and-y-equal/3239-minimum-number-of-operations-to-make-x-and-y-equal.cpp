@@ -5,7 +5,7 @@ public:
 
         queue<pair<long long, int>> q;
         q.push({x, 0});
-        unordered_set<long long> vis;
+        set<long long> vis;
         vis.insert(x);
 
         while (!q.empty()) {
