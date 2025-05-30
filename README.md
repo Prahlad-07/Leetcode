@@ -791,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/RusHerrr07/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1753-path-with-minimum-effort](https://github.com/RusHerrr07/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/RusHerrr07/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/Prahlad-07/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/RusHerrr07/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/RusHerrr07/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/RusHerrr07/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -1067,6 +1068,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/RusHerrr07/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/RusHerrr07/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/RusHerrr07/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/Prahlad-07/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/RusHerrr07/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/RusHerrr07/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/RusHerrr07/Leetcode/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
