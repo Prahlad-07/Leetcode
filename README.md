@@ -867,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Prahlad-07/Leetcode/tree/master/0155-min-stack) |
 | [0535-encode-and-decode-tinyurl](https://github.com/RusHerrr07/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/RusHerrr07/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1477-product-of-the-last-k-numbers](https://github.com/RusHerrr07/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -977,6 +978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/RusHerrr07/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/RusHerrr07/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RusHerrr07/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/Prahlad-07/Leetcode/tree/master/0155-min-stack) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/RusHerrr07/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RusHerrr07/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/RusHerrr07/Leetcode/tree/master/1002-maximum-width-ramp) |
