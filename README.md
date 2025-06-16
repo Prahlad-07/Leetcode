@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/RusHerrr07/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3707-find-the-most-common-response](https://github.com/RusHerrr07/Leetcode/tree/master/3707-find-the-most-common-response) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Prahlad-07/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3885-count-special-triplets](https://github.com/Prahlad-07/Leetcode/tree/master/3885-count-special-triplets) |
 ## String
 |  |
 | ------- |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/RusHerrr07/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3707-find-the-most-common-response](https://github.com/RusHerrr07/Leetcode/tree/master/3707-find-the-most-common-response) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Prahlad-07/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3885-count-special-triplets](https://github.com/Prahlad-07/Leetcode/tree/master/3885-count-special-triplets) |
 ## Sorting
 |  |
 | ------- |
@@ -771,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Prahlad-07/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3707-find-the-most-common-response](https://github.com/RusHerrr07/Leetcode/tree/master/3707-find-the-most-common-response) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Prahlad-07/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3885-count-special-triplets](https://github.com/Prahlad-07/Leetcode/tree/master/3885-count-special-triplets) |
 ## Combinatorics
 |  |
 | ------- |
