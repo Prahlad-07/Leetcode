@@ -9,18 +9,18 @@ public:
 
         int ans = 0;
         for (int i = 0; i < n; ++i) {
-            int x = nums[i];
-            total[x]--; 
+            
+            total[nums[i]]--; 
 
-            int y = 2 * x;
-            int before = left[y];
-            int after = total[y];
+            int val = 2 * nums[i];
+            int before = left[val];
+            int after = total[val];
 
             if (before > 0 && after > 0) {
                 ans = (ans + 1LL * before * after % mod) % mod;
             }
 
-            left[x]++;
+            left[nums[i]]++;
         }
 
         return ans;
