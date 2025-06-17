@@ -1,4 +1,3 @@
-
 #define MOD 1000000007
 #define ll long long
 #define rep(i, a, b) for(int i = a; i < b; i++)
