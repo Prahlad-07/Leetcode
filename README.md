@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1906-maximize-score-after-n-operations](https://github.com/RusHerrr07/Leetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [1923-sentence-similarity-iii](https://github.com/RusHerrr07/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/RusHerrr07/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1961-maximum-ice-cream-bars](https://github.com/Prahlad-07/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1972-rotating-the-box](https://github.com/RusHerrr07/Leetcode/tree/master/1972-rotating-the-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RusHerrr07/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RusHerrr07/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -583,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/RusHerrr07/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/RusHerrr07/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/RusHerrr07/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
+| [1961-maximum-ice-cream-bars](https://github.com/Prahlad-07/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2117-find-original-array-from-doubled-array](https://github.com/RusHerrr07/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2118-maximum-earnings-from-taxi](https://github.com/RusHerrr07/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RusHerrr07/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -741,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/RusHerrr07/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Prahlad-07/Leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/RusHerrr07/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
+| [1961-maximum-ice-cream-bars](https://github.com/Prahlad-07/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/RusHerrr07/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RusHerrr07/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2117-find-original-array-from-doubled-array](https://github.com/RusHerrr07/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
@@ -1185,4 +1188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-fair-distribution-of-cookies](https://github.com/RusHerrr07/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1906-maximize-score-after-n-operations](https://github.com/RusHerrr07/Leetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/RusHerrr07/Leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
+## Counting Sort
+|  |
+| ------- |
+| [1961-maximum-ice-cream-bars](https://github.com/Prahlad-07/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
