@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RusHerrr07/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/RusHerrr07/Leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/RusHerrr07/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Prahlad-07/Leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RusHerrr07/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RusHerrr07/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/RusHerrr07/Leetcode/tree/master/1923-sentence-similarity-iii) |
@@ -738,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-reducing-dishes](https://github.com/RusHerrr07/Leetcode/tree/master/1503-reducing-dishes) |
 | [1662-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/RusHerrr07/Leetcode/tree/master/1662-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/RusHerrr07/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Prahlad-07/Leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/RusHerrr07/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/RusHerrr07/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RusHerrr07/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
