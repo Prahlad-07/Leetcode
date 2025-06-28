@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/RusHerrr07/Leetcode/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/RusHerrr07/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/RusHerrr07/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/Prahlad-07/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/RusHerrr07/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0447-number-of-boomerangs](https://github.com/RusHerrr07/Leetcode/tree/master/0447-number-of-boomerangs) |
 | [0494-target-sum](https://github.com/RusHerrr07/Leetcode/tree/master/0494-target-sum) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/RusHerrr07/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0403-frog-jump](https://github.com/RusHerrr07/Leetcode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/RusHerrr07/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/Prahlad-07/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/RusHerrr07/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/RusHerrr07/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/RusHerrr07/Leetcode/tree/master/0518-coin-change-ii) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RusHerrr07/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/RusHerrr07/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0413-arithmetic-slices](https://github.com/Prahlad-07/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/RusHerrr07/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/RusHerrr07/Leetcode/tree/master/0567-permutation-in-string) |
 | [1046-max-consecutive-ones-iii](https://github.com/RusHerrr07/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
