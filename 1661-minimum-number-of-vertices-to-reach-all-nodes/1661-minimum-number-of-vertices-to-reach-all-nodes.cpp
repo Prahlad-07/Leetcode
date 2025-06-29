@@ -25,17 +25,6 @@ public:
             adj[values[0]].push_back(values[1]);
             degree[values[1]]++;
         }
-
-        // vector<int> ans;
-
-        // for (int i = 0; i < n; i++) {
-        //     if (!vist[i]) {
-        //         DFS(i);
-        //         ans.push_back(i);
-        //     }
-        // }
-        
-        // return ans;
         vector<int>ans;
         for(int i=0;i<n;i++){
             if(degree[i]==0)ans.push_back(i);
