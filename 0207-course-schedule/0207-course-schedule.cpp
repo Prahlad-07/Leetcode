@@ -24,8 +24,9 @@ private:
                 if (indegree[neigh] == 0) q.push(neigh);
             }
         }
-
-        return order;
+        if(order.size()==k)return order;
+        
+        return {};
     }
     
 public:
