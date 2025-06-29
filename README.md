@@ -1122,6 +1122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/RusHerrr07/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RusHerrr07/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/RusHerrr07/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Prahlad-07/Leetcode/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/RusHerrr07/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/RusHerrr07/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Prahlad-07/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
