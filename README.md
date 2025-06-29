@@ -824,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/RusHerrr07/Leetcode/tree/master/0100-same-tree) |
 | [0207-course-schedule](https://github.com/Prahlad-07/Leetcode/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Prahlad-07/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RusHerrr07/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Prahlad-07/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/RusHerrr07/Leetcode/tree/master/0684-redundant-connection) |
@@ -854,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/RusHerrr07/Leetcode/tree/master/0100-same-tree) |
 | [0127-word-ladder](https://github.com/RusHerrr07/Leetcode/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/Prahlad-07/Leetcode/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Prahlad-07/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/RusHerrr07/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RusHerrr07/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/RusHerrr07/Leetcode/tree/master/0542-01-matrix) |
@@ -1119,6 +1121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Prahlad-07/Leetcode/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Prahlad-07/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/RusHerrr07/Leetcode/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/RusHerrr07/Leetcode/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/RusHerrr07/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
@@ -1187,6 +1190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Prahlad-07/Leetcode/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Prahlad-07/Leetcode/tree/master/0210-course-schedule-ii) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/RusHerrr07/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Prahlad-07/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Number Theory
