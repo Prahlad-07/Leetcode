@@ -6,7 +6,6 @@ private:
         vector<int> indegree(k, 0);
         
         for (auto& val : prerequisites) {
-            // b must be done before a ⇒ b → a
             adj[val[1]].push_back(val[0]);
             indegree[val[0]]++;
         }
