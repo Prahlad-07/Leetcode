@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/RusHerrr07/Leetcode/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/RusHerrr07/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3707-find-the-most-common-response](https://github.com/RusHerrr07/Leetcode/tree/master/3707-find-the-most-common-response) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Prahlad-07/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Prahlad-07/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3885-count-special-triplets](https://github.com/Prahlad-07/Leetcode/tree/master/3885-count-special-triplets) |
 ## String
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/RusHerrr07/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/RusHerrr07/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3483-alternating-groups-ii](https://github.com/RusHerrr07/Leetcode/tree/master/3483-alternating-groups-ii) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Prahlad-07/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Simulation
 |  |
 | ------- |
@@ -785,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Prahlad-07/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/RusHerrr07/Leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/RusHerrr07/Leetcode/tree/master/3528-reach-end-of-array-with-max-score) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Prahlad-07/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Counting
 |  |
 | ------- |
