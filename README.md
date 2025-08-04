@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/RusHerrr07/Leetcode/tree/master/0778-reorganize-string) |
 | [0878-shifting-letters](https://github.com/RusHerrr07/Leetcode/tree/master/0878-shifting-letters) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/RusHerrr07/Leetcode/tree/master/0929-groups-of-special-equivalent-strings) |
+| [0942-super-palindromes](https://github.com/Prahlad-07/Leetcode/tree/master/0942-super-palindromes) |
 | [0952-word-subsets](https://github.com/RusHerrr07/Leetcode/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RusHerrr07/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Prahlad-07/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -736,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/RusHerrr07/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0797-rabbits-in-forest](https://github.com/RusHerrr07/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0909-stone-game](https://github.com/RusHerrr07/Leetcode/tree/master/0909-stone-game) |
+| [0942-super-palindromes](https://github.com/Prahlad-07/Leetcode/tree/master/0942-super-palindromes) |
 | [1010-powerful-integers](https://github.com/RusHerrr07/Leetcode/tree/master/1010-powerful-integers) |
 | [1289-day-of-the-week](https://github.com/Prahlad-07/Leetcode/tree/master/1289-day-of-the-week) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Prahlad-07/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -1175,6 +1177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0942-super-palindromes](https://github.com/Prahlad-07/Leetcode/tree/master/0942-super-palindromes) |
 | [1010-powerful-integers](https://github.com/RusHerrr07/Leetcode/tree/master/1010-powerful-integers) |
 | [1656-count-good-triplets](https://github.com/RusHerrr07/Leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RusHerrr07/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
