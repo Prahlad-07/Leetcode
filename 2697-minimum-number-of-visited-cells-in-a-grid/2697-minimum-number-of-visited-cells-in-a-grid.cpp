@@ -28,44 +28,39 @@ class Solution {
 public: 
     int minimumVisitedCells(vector<vector<int>>& g) {
         int m = g.size(), n = g[0].size();
-        vector<vector<int>> max_i(m, vector<int>(n, -1)),
-            max_j(m, vector<int>(n, -1));
+        vector<vector<int>> mi(m, vector<int>(n, -1)), mj(m, vector<int>(n, -1));
         queue<pair<int, int>> q;
         q.push({0, 0});
-        int steps = 0;
+        int s = 0;
 
         while (!q.empty()) {
-            ++steps;
-            int q_size = q.size();
-
-            for (int q_index = 0; q_index < q_size; ++q_index) {
-                auto [i, j] = q.front();
+            ++s;
+            int z = q.size();
+            while (z--) {
+                auto [x, y] = q.front();
                 q.pop();
+                if (x == m - 1 && y == n - 1) return s;
 
-                if (i == m - 1 && j == n - 1) {
-                    return steps;
-                }
-
-                for (int k = i + 1; k < m && k - i <= g[i][j]; ++k) {
-                    if (max_i[k][j] == -1) {
-                        q.push({k, j});
-                        max_i[k][j] = i + g[i][j];
+                for (int k = x + 1; k < m && k - x <= g[x][y]; ++k) {
+                    if (mi[k][y] == -1) {
+                        q.push({k, y});
+                        mi[k][y] = x + g[x][y];
                     } else {
-                        k = max_i[k][j];
+                        k = mi[k][y];
                     }
                 }
 
-                for (int k = j + 1; k < n && k - j <= g[i][j]; ++k) {
-                    if (max_j[i][k] == -1) {
-                        q.push({i, k});
-                        max_j[i][k] = j + g[i][j];
+                for (int k = y + 1; k < n && k - y <= g[x][y]; ++k) {
+                    if (mj[x][k] == -1) {
+                        q.push({x, k});
+                        mj[x][k] = y + g[x][y];
                     } else {
-                        k = max_j[i][k];
+                        k = mj[x][k];
                     }
                 }
             }
         }
-
         return -1;
     }
 };
+
