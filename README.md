@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/RusHerrr07/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/RusHerrr07/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/RusHerrr07/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Prahlad-07/Leetcode/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/RusHerrr07/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2700-substring-xor-queries](https://github.com/RusHerrr07/Leetcode/tree/master/2700-substring-xor-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/RusHerrr07/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/RusHerrr07/Leetcode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/RusHerrr07/Leetcode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2562-count-ways-to-build-good-strings](https://github.com/RusHerrr07/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
+| [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Prahlad-07/Leetcode/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/RusHerrr07/Leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/RusHerrr07/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2893-visit-array-positions-to-maximize-score](https://github.com/RusHerrr07/Leetcode/tree/master/2893-visit-array-positions-to-maximize-score) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/RusHerrr07/Leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2625-increment-submatrices-by-one](https://github.com/RusHerrr07/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2685-first-completely-painted-row-or-column](https://github.com/RusHerrr07/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Prahlad-07/Leetcode/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/RusHerrr07/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/RusHerrr07/Leetcode/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/RusHerrr07/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
@@ -944,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/RusHerrr07/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/RusHerrr07/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/RusHerrr07/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Prahlad-07/Leetcode/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/RusHerrr07/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/RusHerrr07/Leetcode/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/RusHerrr07/Leetcode/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
@@ -961,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/RusHerrr07/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/RusHerrr07/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/RusHerrr07/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Prahlad-07/Leetcode/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/RusHerrr07/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RusHerrr07/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Tree
@@ -1025,6 +1030,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2636-maximum-subsequence-score](https://github.com/RusHerrr07/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2681-put-marbles-in-bags](https://github.com/RusHerrr07/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/RusHerrr07/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Prahlad-07/Leetcode/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/RusHerrr07/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/RusHerrr07/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RusHerrr07/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -1115,6 +1121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RusHerrr07/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/RusHerrr07/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/RusHerrr07/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Prahlad-07/Leetcode/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/RusHerrr07/Leetcode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3447-clear-digits](https://github.com/RusHerrr07/Leetcode/tree/master/3447-clear-digits) |
 | [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/RusHerrr07/Leetcode/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
@@ -1178,6 +1185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/Prahlad-07/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1002-maximum-width-ramp](https://github.com/RusHerrr07/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/RusHerrr07/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Prahlad-07/Leetcode/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/RusHerrr07/Leetcode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/RusHerrr07/Leetcode/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 ## Enumeration
