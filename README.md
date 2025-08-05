@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Prahlad-07/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Prahlad-07/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Prahlad-07/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3790-fruits-into-baskets-ii](https://github.com/Prahlad-07/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3827-implement-router](https://github.com/Prahlad-07/Leetcode/tree/master/3827-implement-router) |
 | [3885-count-special-triplets](https://github.com/Prahlad-07/Leetcode/tree/master/3885-count-special-triplets) |
 ## String
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/RusHerrr07/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/RusHerrr07/Leetcode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RusHerrr07/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/Prahlad-07/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -722,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Prahlad-07/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/RusHerrr07/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/RusHerrr07/Leetcode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
+| [3790-fruits-into-baskets-ii](https://github.com/Prahlad-07/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3827-implement-router](https://github.com/Prahlad-07/Leetcode/tree/master/3827-implement-router) |
 ## Math
 |  |
@@ -1233,6 +1236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-number-in-infinite-set](https://github.com/RusHerrr07/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/RusHerrr07/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/RusHerrr07/Leetcode/tree/master/2868-continuous-subarrays) |
+| [3790-fruits-into-baskets-ii](https://github.com/Prahlad-07/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3827-implement-router](https://github.com/Prahlad-07/Leetcode/tree/master/3827-implement-router) |
 ## Monotonic Queue
 |  |
@@ -1260,6 +1264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/RusHerrr07/Leetcode/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
+| [3790-fruits-into-baskets-ii](https://github.com/Prahlad-07/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Topological Sort
 |  |
 | ------- |
