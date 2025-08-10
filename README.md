@@ -553,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/RusHerrr07/Leetcode/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/RusHerrr07/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/RusHerrr07/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [0900-reordered-power-of-2](https://github.com/Prahlad-07/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/RusHerrr07/Leetcode/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0940-fruit-into-baskets](https://github.com/Prahlad-07/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/RusHerrr07/Leetcode/tree/master/0952-word-subsets) |
@@ -626,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/RusHerrr07/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RusHerrr07/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0778-reorganize-string](https://github.com/RusHerrr07/Leetcode/tree/master/0778-reorganize-string) |
+| [0900-reordered-power-of-2](https://github.com/Prahlad-07/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/RusHerrr07/Leetcode/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0941-sort-array-by-parity](https://github.com/Prahlad-07/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/RusHerrr07/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -745,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0447-number-of-boomerangs](https://github.com/RusHerrr07/Leetcode/tree/master/0447-number-of-boomerangs) |
 | [0539-minimum-time-difference](https://github.com/RusHerrr07/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0797-rabbits-in-forest](https://github.com/RusHerrr07/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [0900-reordered-power-of-2](https://github.com/Prahlad-07/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0909-stone-game](https://github.com/RusHerrr07/Leetcode/tree/master/0909-stone-game) |
 | [0942-super-palindromes](https://github.com/Prahlad-07/Leetcode/tree/master/0942-super-palindromes) |
 | [1010-powerful-integers](https://github.com/RusHerrr07/Leetcode/tree/master/1010-powerful-integers) |
@@ -847,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/RusHerrr07/Leetcode/tree/master/0778-reorganize-string) |
+| [0900-reordered-power-of-2](https://github.com/Prahlad-07/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/RusHerrr07/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1160-letter-tile-possibilities](https://github.com/RusHerrr07/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/RusHerrr07/Leetcode/tree/master/1364-tuple-with-same-product) |
@@ -1191,6 +1195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/Prahlad-07/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0942-super-palindromes](https://github.com/Prahlad-07/Leetcode/tree/master/0942-super-palindromes) |
 | [1010-powerful-integers](https://github.com/RusHerrr07/Leetcode/tree/master/1010-powerful-integers) |
 | [1656-count-good-triplets](https://github.com/RusHerrr07/Leetcode/tree/master/1656-count-good-triplets) |
