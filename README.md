@@ -745,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/RusHerrr07/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/RusHerrr07/Leetcode/tree/master/0070-climbing-stairs) |
 | [0273-integer-to-english-words](https://github.com/RusHerrr07/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0326-power-of-three](https://github.com/Prahlad-07/Leetcode/tree/master/0326-power-of-three) |
 | [0447-number-of-boomerangs](https://github.com/RusHerrr07/Leetcode/tree/master/0447-number-of-boomerangs) |
 | [0539-minimum-time-difference](https://github.com/RusHerrr07/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0797-rabbits-in-forest](https://github.com/RusHerrr07/Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -886,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/RusHerrr07/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/RusHerrr07/Leetcode/tree/master/0060-permutation-sequence) |
 | [0273-integer-to-english-words](https://github.com/RusHerrr07/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0326-power-of-three](https://github.com/Prahlad-07/Leetcode/tree/master/0326-power-of-three) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/RusHerrr07/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/RusHerrr07/Leetcode/tree/master/2050-count-good-numbers) |
 ## Depth-First Search
