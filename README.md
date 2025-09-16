@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/RusHerrr07/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/RusHerrr07/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/RusHerrr07/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Prahlad-07/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/RusHerrr07/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Prahlad-07/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2342-minimum-average-difference](https://github.com/RusHerrr07/Leetcode/tree/master/2342-minimum-average-difference) |
@@ -781,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RusHerrr07/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2187-vowels-of-all-substrings](https://github.com/RusHerrr07/Leetcode/tree/master/2187-vowels-of-all-substrings) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/RusHerrr07/Leetcode/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Prahlad-07/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/RusHerrr07/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/RusHerrr07/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/RusHerrr07/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
@@ -1142,6 +1144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/RusHerrr07/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RusHerrr07/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/RusHerrr07/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Prahlad-07/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/RusHerrr07/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Prahlad-07/Leetcode/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/RusHerrr07/Leetcode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
@@ -1308,6 +1311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1906-maximize-score-after-n-operations](https://github.com/RusHerrr07/Leetcode/tree/master/1906-maximize-score-after-n-operations) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Prahlad-07/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/RusHerrr07/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/RusHerrr07/Leetcode/tree/master/3593-find-the-maximum-factor-score-of-array) |
 ## Game Theory
