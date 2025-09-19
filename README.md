@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3748-sort-matrix-by-diagonals](https://github.com/Prahlad-07/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Prahlad-07/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Prahlad-07/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3797-design-spreadsheet](https://github.com/Prahlad-07/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Prahlad-07/Leetcode/tree/master/3827-implement-router) |
 | [3885-count-special-triplets](https://github.com/Prahlad-07/Leetcode/tree/master/3885-count-special-triplets) |
 ## String
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3707-find-the-most-common-response](https://github.com/RusHerrr07/Leetcode/tree/master/3707-find-the-most-common-response) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Prahlad-07/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Prahlad-07/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3797-design-spreadsheet](https://github.com/Prahlad-07/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/RusHerrr07/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Prahlad-07/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Prahlad-07/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/Prahlad-07/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Sliding Window
 |  |
 | ------- |
@@ -625,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Prahlad-07/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Prahlad-07/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Prahlad-07/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/Prahlad-07/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Prahlad-07/Leetcode/tree/master/3827-implement-router) |
 | [3885-count-special-triplets](https://github.com/Prahlad-07/Leetcode/tree/master/3885-count-special-triplets) |
 ## Sorting
@@ -1025,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-number-in-infinite-set](https://github.com/RusHerrr07/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/RusHerrr07/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2587-design-memory-allocator](https://github.com/RusHerrr07/Leetcode/tree/master/2587-design-memory-allocator) |
+| [3797-design-spreadsheet](https://github.com/Prahlad-07/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Prahlad-07/Leetcode/tree/master/3827-implement-router) |
 ## Binary Search Tree
 |  |
