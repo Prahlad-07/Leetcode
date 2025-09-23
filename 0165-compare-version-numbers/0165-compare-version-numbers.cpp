@@ -12,7 +12,7 @@ public:
             }
             int val1 = s.empty() ? 0 : stoi(s);
             s = "";
-            i = (idx < version1.size() ? idx + 1 : idx);
+            i = idx + 1;
 
             idx = j;
             while(idx < version2.size() && version2[idx] != '.'){
@@ -20,7 +20,7 @@ public:
                 idx++;
             }
             int val2 = s.empty() ? 0 : stoi(s);
-            j = (idx < version2.size() ? idx + 1 : idx);
+            j = idx + 1;
 
             if(val1 < val2) return -1;
             if(val1 > val2) return 1;
