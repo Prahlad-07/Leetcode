@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/Prahlad-07/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1025-minimum-cost-for-tickets](https://github.com/RusHerrr07/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1170-shortest-common-supersequence](https://github.com/RusHerrr07/Leetcode/tree/master/1170-shortest-common-supersequence) |
+| [1236-n-th-tribonacci-number](https://github.com/Prahlad-07/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/RusHerrr07/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Prahlad-07/Leetcode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/RusHerrr07/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
@@ -776,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/RusHerrr07/Leetcode/tree/master/0909-stone-game) |
 | [0942-super-palindromes](https://github.com/Prahlad-07/Leetcode/tree/master/0942-super-palindromes) |
 | [1010-powerful-integers](https://github.com/RusHerrr07/Leetcode/tree/master/1010-powerful-integers) |
+| [1236-n-th-tribonacci-number](https://github.com/Prahlad-07/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1289-day-of-the-week](https://github.com/Prahlad-07/Leetcode/tree/master/1289-day-of-the-week) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Prahlad-07/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RusHerrr07/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -818,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/RusHerrr07/Leetcode/tree/master/0070-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/Prahlad-07/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Prahlad-07/Leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Prahlad-07/Leetcode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Greedy
