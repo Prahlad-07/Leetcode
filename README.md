@@ -543,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/RusHerrr07/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/RusHerrr07/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/RusHerrr07/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3336-water-bottles-ii](https://github.com/Prahlad-07/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/RusHerrr07/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/RusHerrr07/Leetcode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RusHerrr07/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -810,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/RusHerrr07/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/RusHerrr07/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/Prahlad-07/Leetcode/tree/master/3321-type-of-triangle) |
+| [3336-water-bottles-ii](https://github.com/Prahlad-07/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RusHerrr07/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/RusHerrr07/Leetcode/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Prahlad-07/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
