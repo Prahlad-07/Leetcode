@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/RusHerrr07/Leetcode/tree/master/0695-max-area-of-island) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RusHerrr07/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0724-find-pivot-index](https://github.com/RusHerrr07/Leetcode/tree/master/0724-find-pivot-index) |
+| [0794-swim-in-rising-water](https://github.com/Prahlad-07/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/RusHerrr07/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0878-shifting-letters](https://github.com/RusHerrr07/Leetcode/tree/master/0878-shifting-letters) |
 | [0907-koko-eating-bananas](https://github.com/RusHerrr07/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/RusHerrr07/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/RusHerrr07/Leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/RusHerrr07/Leetcode/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/Prahlad-07/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0921-spiral-matrix-iii](https://github.com/RusHerrr07/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/RusHerrr07/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/RusHerrr07/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -742,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/RusHerrr07/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/RusHerrr07/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RusHerrr07/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0794-swim-in-rising-water](https://github.com/Prahlad-07/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/RusHerrr07/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/RusHerrr07/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/RusHerrr07/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -942,6 +945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/RusHerrr07/Leetcode/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/RusHerrr07/Leetcode/tree/master/0744-network-delay-time) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/RusHerrr07/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0794-swim-in-rising-water](https://github.com/Prahlad-07/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0813-all-paths-from-source-to-target](https://github.com/RusHerrr07/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/RusHerrr07/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0999-regions-cut-by-slashes](https://github.com/RusHerrr07/Leetcode/tree/master/0999-regions-cut-by-slashes) |
@@ -975,6 +979,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/RusHerrr07/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/RusHerrr07/Leetcode/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/RusHerrr07/Leetcode/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/Prahlad-07/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0813-all-paths-from-source-to-target](https://github.com/RusHerrr07/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/RusHerrr07/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0999-regions-cut-by-slashes](https://github.com/RusHerrr07/Leetcode/tree/master/0999-regions-cut-by-slashes) |
@@ -1006,6 +1011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/RusHerrr07/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0684-redundant-connection](https://github.com/RusHerrr07/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/RusHerrr07/Leetcode/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/Prahlad-07/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0999-regions-cut-by-slashes](https://github.com/RusHerrr07/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Prahlad-07/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/RusHerrr07/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -1061,6 +1067,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/RusHerrr07/Leetcode/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/RusHerrr07/Leetcode/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/RusHerrr07/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0794-swim-in-rising-water](https://github.com/Prahlad-07/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1304-longest-happy-string](https://github.com/RusHerrr07/Leetcode/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/RusHerrr07/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RusHerrr07/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
