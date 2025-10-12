@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/RusHerrr07/Leetcode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3429-special-array-i](https://github.com/RusHerrr07/Leetcode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/RusHerrr07/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Prahlad-07/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3483-alternating-groups-ii](https://github.com/RusHerrr07/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/RusHerrr07/Leetcode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/RusHerrr07/Leetcode/tree/master/3528-reach-end-of-array-with-max-score) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Prahlad-07/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Prahlad-07/Leetcode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Prahlad-07/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Prahlad-07/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Prahlad-07/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/RusHerrr07/Leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
 | [3675-maximize-sum-of-weights-after-edge-removals](https://github.com/RusHerrr07/Leetcode/tree/master/3675-maximize-sum-of-weights-after-edge-removals) |
@@ -632,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RusHerrr07/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/RusHerrr07/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/RusHerrr07/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Prahlad-07/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/RusHerrr07/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3541-report-spam-message](https://github.com/RusHerrr07/Leetcode/tree/master/3541-report-spam-message) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/RusHerrr07/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -697,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Prahlad-07/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Prahlad-07/Leetcode/tree/master/3321-type-of-triangle) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/RusHerrr07/Leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Prahlad-07/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Prahlad-07/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Two Pointers
 |  |
@@ -736,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/RusHerrr07/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/RusHerrr07/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/RusHerrr07/Leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Prahlad-07/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/RusHerrr07/Leetcode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/RusHerrr07/Leetcode/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Prahlad-07/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -766,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Prahlad-07/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/RusHerrr07/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/RusHerrr07/Leetcode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Prahlad-07/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3790-fruits-into-baskets-ii](https://github.com/Prahlad-07/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3827-implement-router](https://github.com/Prahlad-07/Leetcode/tree/master/3827-implement-router) |
 ## Math
@@ -917,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-make-number-of-distinct-characters-equal](https://github.com/RusHerrr07/Leetcode/tree/master/2615-make-number-of-distinct-characters-equal) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Prahlad-07/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RusHerrr07/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Prahlad-07/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/RusHerrr07/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Prahlad-07/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3707-find-the-most-common-response](https://github.com/RusHerrr07/Leetcode/tree/master/3707-find-the-most-common-response) |
