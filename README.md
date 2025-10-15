@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RusHerrr07/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/RusHerrr07/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/RusHerrr07/Leetcode/tree/master/3593-find-the-maximum-factor-score-of-array) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Prahlad-07/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/RusHerrr07/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Prahlad-07/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/RusHerrr07/Leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
@@ -776,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/RusHerrr07/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/RusHerrr07/Leetcode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Prahlad-07/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Prahlad-07/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Prahlad-07/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3827-implement-router](https://github.com/Prahlad-07/Leetcode/tree/master/3827-implement-router) |
 ## Math
