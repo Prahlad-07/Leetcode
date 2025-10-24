@@ -619,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/RusHerrr07/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2117-find-original-array-from-doubled-array](https://github.com/RusHerrr07/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2118-maximum-earnings-from-taxi](https://github.com/RusHerrr07/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Prahlad-07/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Prahlad-07/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/RusHerrr07/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/RusHerrr07/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
@@ -835,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RusHerrr07/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/RusHerrr07/Leetcode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RusHerrr07/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Prahlad-07/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2187-vowels-of-all-substrings](https://github.com/RusHerrr07/Leetcode/tree/master/2187-vowels-of-all-substrings) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/RusHerrr07/Leetcode/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Prahlad-07/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -941,6 +943,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Prahlad-07/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RusHerrr07/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/RusHerrr07/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Prahlad-07/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/RusHerrr07/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/RusHerrr07/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2448-count-number-of-bad-pairs](https://github.com/RusHerrr07/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -1171,6 +1174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RusHerrr07/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/RusHerrr07/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RusHerrr07/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Prahlad-07/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/RusHerrr07/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/RusHerrr07/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/RusHerrr07/Leetcode/tree/master/3649-minimum-time-to-break-locks-i) |
@@ -1300,6 +1304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/RusHerrr07/Leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RusHerrr07/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RusHerrr07/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Prahlad-07/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Prahlad-07/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/RusHerrr07/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/RusHerrr07/Leetcode/tree/master/3046-minimum-operations-to-make-a-special-number) |
