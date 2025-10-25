@@ -1,5 +1,5 @@
 class Solution {
-    bool isValid(vector<int>& batteries, int n, long long mid){
+    bool isValid(vector<int>&batteries, int n, int mid){
         int cnt = 0;
         long long rem = 0;
         for(auto &val : batteries){
@@ -10,12 +10,14 @@ class Solution {
             else{
                 rem += val;
             }
-            if(cnt >= n) return true;
+            if(cnt >= n)return true;
         }
         return cnt >= n;
     }
 public:
     long long maxRunTime(int n, vector<int>& batteries) {
+        // int  = batteries.size();
+      
         long long sum = 0;
         for(auto &b : batteries) sum += b;
         sort(batteries.begin(), batteries.end());
@@ -31,5 +33,6 @@ public:
             }
         }
         return ans;
+    
     }
 };
